@@ -11,6 +11,8 @@ namespace CSharpRecap
         static void Main(string[] args)
         {
             Console.WriteLine("Inital Commit");
+            IHumanAction human = new Human();
+            human.Talk("My name is ...");
         }
     }
 }
