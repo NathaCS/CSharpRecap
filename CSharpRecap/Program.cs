@@ -10,6 +10,7 @@ namespace CSharpRecap
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Inital Commit");
         }
     }
 }
